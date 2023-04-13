@@ -416,21 +416,25 @@ class WeChat():
 
                     self.AllTextMsg[0].Click(waitTime=0.1)
                     # 获得聊天记录实例
-                    self.聊天记录窗口 = auto.WindowControl(Name=self.AllTextMsg[0].Name, ClassName='ChatRecordWnd')
-                    self.聊天记录窗口.SetActive()
+                    try:
+                        self.聊天记录窗口 = auto.WindowControl(Name=self.AllTextMsg[0].Name, ClassName='ChatRecordWnd')
+                        self.聊天记录窗口.SetActive()
+                    except:
+                        self.聊天记录窗口 = auto.WindowControl(Name="", ClassName='ChatRecordWnd')
+                        self.聊天记录窗口.SetActive()
                     # 切换窗口
                     self.聊天记录窗口.SwitchToThisWindow()
                 
                     聊天记录列表 = self.聊天记录窗口.ListControl(LocalizedControlType='列表')
                     self.聊天记录 = []
-                    for i in range(10):
+                    for i in range(15):
                         self.获取聊天记录(聊天记录列表)
                         聊天记录列表.WheelDown(wheelTimes=int(5), waitTime=0.1)
 
                     Msg_list.append(self.聊天记录)
                     self.聊天记录窗口.SendKeys('{Esc}', waitTime=0)
                 except:
-                    pass
+                    print("聊天记录获取错误")
                 # 切换窗口
                 self.UiaAPI.SwitchToThisWindow()
         return Msg_list

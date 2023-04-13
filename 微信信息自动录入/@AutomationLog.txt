@@ -658,4 +658,99 @@
 2023-04-12 11:41:22.467 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
 2023-04-12 11:41:22.500 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
 2023-04-12 11:41:22.506 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
-2023-04-12 11:41:23.976 微信信息自动录入.py[167] SplitMessage -> 
+2023-04-12 11:41:23.976 微信信息自动录入.py[167] SplitMessage -> 2023-04-13 15:44:36.434 微信信息自动录入.py[265] __init__ -> 2023-04-13 15:46:00.709 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:01.028 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:01.127 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:01.187 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:01.374 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:01.437 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:01.472 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:02.153 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:46:19.923 微信信息自动录入.py[420] GetAllMergeMessage -> Find Control Timeout(10.0s): {Name: 'X.和AAA波鞋批发小丰的聊天记录', ClassName: 'ChatRecordWnd', ControlType: WindowControl}
+2023-04-13 15:46:34.548 微信信息自动录入.py[420] GetAllMergeMessage -> 2023-04-13 15:50:54.709 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:55.009 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:55.108 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:55.169 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:55.358 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:55.425 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:55.461 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:56.119 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:50:56.836 微信信息自动录入.py[167] SplitMessage -> 2023-04-13 15:58:15.001 微信信息自动录入.py[167] SplitMessage -> 2023-04-13 15:58:44.418 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:44.597 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:44.660 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:44.698 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:44.817 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:44.857 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:44.878 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:45.284 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:58:45.720 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 15:59:13.643 pydevd_resolver.py[192] _get_py_dictionary -> Find Control Timeout(10.0s): {Name: 'X.和AAA波鞋批发小丰的聊天记录', ClassName: 'ChatRecordWnd', ControlType: WindowControl}
+2023-04-13 15:59:27.101 pydevd_resolver.py[192] _get_py_dictionary -> Find Control Timeout(10.0s): {Name: 'X.和AAA波鞋批发小丰的聊天记录', ClassName: 'ChatRecordWnd', ControlType: WindowControl}
+2023-04-13 15:59:40.056 pydevd_resolver.py[192] _get_py_dictionary -> Find Control Timeout(10.0s): {Name: 'X.和AAA波鞋批发小丰的聊天记录', ClassName: 'ChatRecordWnd', ControlType: WindowControl}
+2023-04-13 15:59:52.189 pydevd_resolver.py[192] _get_py_dictionary -> 2023-04-13 16:01:30.580 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:30.760 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:30.824 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:30.865 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:30.988 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:31.029 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:31.050 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:31.458 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:01:31.897 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:02:32.163 微信信息自动录入.py[424] GetAllMergeMessage -> 2023-04-13 16:03:48.305 微信信息自动录入.py[167] SplitMessage -> 2023-04-13 16:05:35.937 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:36.122 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:36.183 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:36.222 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:36.342 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:36.383 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:36.406 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:36.826 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:37.272 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:05:50.561 微信信息自动录入.py[420] GetAllMergeMessage -> 2023-04-13 16:06:20.789 微信信息自动录入.py[167] SplitMessage -> 2023-04-13 16:06:54.230 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:54.411 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:54.476 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:54.512 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:54.631 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:54.674 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:54.695 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:55.100 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:06:55.542 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:09.079 微信信息自动录入.py[420] GetAllMergeMessage -> Find Control Timeout(10.0s): {Name: 'X.和AAA波鞋批发小丰的聊天记录', ClassName: 'ChatRecordWnd', ControlType: WindowControl}
+2023-04-13 16:07:23.866 微信信息自动录入.py[420] GetAllMergeMessage -> 2023-04-13 16:07:58.408 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:58.602 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:58.674 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:58.711 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:58.833 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:58.876 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:58.896 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:59.326 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:07:59.809 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:08:13.643 微信信息自动录入.py[420] GetAllMergeMessage -> 2023-04-13 16:09:10.776 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:10.958 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:11.020 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:11.058 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:11.177 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:11.217 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:11.238 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:11.650 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:12.095 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:09:25.444 微信信息自动录入.py[423] GetAllMergeMessage -> Find Control Timeout(10.0s): {Name: 'X.和AAA波鞋批发小丰的聊天记录', ClassName: 'ChatRecordWnd', ControlType: WindowControl}
+2023-04-13 16:09:38.936 微信信息自动录入.py[423] GetAllMergeMessage -> 2023-04-13 16:10:45.571 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:45.749 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:45.812 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:45.848 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:45.972 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:46.015 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:46.036 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:46.443 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:10:46.879 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:09.186 微信信息自动录入.py[423] GetAllMergeMessage -> 2023-04-13 16:11:40.665 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:40.846 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:40.908 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:40.945 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:41.063 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:41.102 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:41.126 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:41.533 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:41.967 微信信息自动录入.py[167] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:11:55.769 微信信息自动录入.py[421] GetAllMergeMessage -> Find Control Timeout(10.0s): {Name: 'X.和AAA波鞋批发小丰的聊天记录', ClassName: 'ChatRecordWnd', ControlType: WindowControl}
+2023-04-13 16:12:20.767 微信信息自动录入.py[421] GetAllMergeMessage -> 
