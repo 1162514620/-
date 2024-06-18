@@ -58,4 +58,14 @@
 2023-04-07 18:43:07.188 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
 2023-04-07 18:43:07.230 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
 2023-04-07 18:43:07.247 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
-2023-04-07 18:43:45.405 uiautomation.py[6473] Refind -> 
+2023-04-07 18:43:45.405 uiautomation.py[6473] Refind -> 2023-04-13 16:19:33.171 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:33.280 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:33.342 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:33.380 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:33.497 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:33.537 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:33.559 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:33.962 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:34.397 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:34.419 uiautomation.py[6473] Refind -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-04-13 16:19:49.219 uiautomation.py[6473] Refind -> 
