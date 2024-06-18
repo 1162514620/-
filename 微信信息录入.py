@@ -108,7 +108,6 @@ class 微信自动化():
                 if (位置.bottom > 消息框.bottom):
                     self.消息列表.WheelDown(wheelTimes=1, waitTime=0.1)
                 位置 = msg.BoundingRectangle
-                消息框 = self.消息列表.BoundingRectangle
             msg.ButtonControl(Name = "").Click(waitTime=0.1)
         except Exception as e:
             # 输出错误的具体位置，报错行号位置在第几行
@@ -121,23 +120,25 @@ class 微信自动化():
             合并消息窗口 = auto.WindowControl(ClassName='ChatRecordWnd')
             合并消息窗口.SetActive()
             合并消息窗口.SwitchToThisWindow()
-        
+
             全部消息列表 = []
             返回消息列表 = []
             记录次数 = 0
             记录消息长度 = 0
             for i in range(50):
+
                 当前页消息对象列表 = 合并消息窗口.ListControl(Name = "消息记录").GetChildren()
                 for 当前页消息对象 in 当前页消息对象列表:
-                    if  当前页消息对象.GetRuntimeId() not in 全部消息列表:
-                        全部消息列表.append(当前页消息对象.GetRuntimeId())
+                    if  当前页消息对象.Name not in 全部消息列表:
+                        全部消息列表.append(当前页消息对象.Name)
+                        
                         if "[图片]" not in 当前页消息对象.Name:
                             返回消息列表.append(当前页消息对象.TextControl(foundIndex = 1).Name)
                             返回消息列表.append(当前页消息对象.TextControl(foundIndex = 3).Name)
 
                 if (记录消息长度 == len(全部消息列表)): 
                     记录次数 += 1
-                    if (记录次数 >= 4):
+                    if (记录次数 >= 8):
                         break
                 else:
                     记录次数 = 0
@@ -230,6 +231,10 @@ def main():
                     for i, 消息对象 in enumerate(消息对象列表):
                         if 消息对象.GetRuntimeId() == 分割标志:
                             消息对象列表 = 消息对象列表[i:]
+
+                    # 对消息对象列表进行一次排序
+                    消息对象列表.sort(key=lambda item: item.BoundingRectangle.top)
+
                     # 获取后面的所有聊天记录
                     for 消息对象 in 消息对象列表:
                         if 消息对象.Name == "[聊天记录]":
